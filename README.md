@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+## Hola <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
+
+Yo soy Remberto Aguilar. Ingeniero de Software (Ciencias de la Computación), con más de 15 años de experiencia en el sector; a través de los cuales he desempeñado múltiples funciones en el desarrollo de productos de Software, ya sea como Líder de Equipo, Arquitecto de Soluciones o Desarrollador BACK-END.
+
+:mailbox: Reach me out!
+
+[![Twitter Badge](https://img.shields.io/badge/-@amremberto-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/amremberto)](https://twitter.com/amremberto) [![Linkedin Badge](https://img.shields.io/badge/-Remberto-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amremberto/) [![Mail Badge](https://img.shields.io/badge/-@amremberto-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/amremberto) [![Mail Badge](https://img.shields.io/badge/-amremberto-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:amremberto@gmail.com)
+
 <!--
 **raguilarnet/raguilarnet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
